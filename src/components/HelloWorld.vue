@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>我被修改过了</h2>
+    <h2>成功没有</h2>
   </div>
 </template>
 
@@ -10,7 +10,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: '看看上传能不能成功'
+      msg: '成功没有'
     }
   }
 }
